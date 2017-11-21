@@ -122,7 +122,6 @@ int displaySubMenu(int selection)
 Population displayResult(Population population, int selection, int subselection)
 {
     int intTemp;
-    double dblTemp;
     
     switch (selection) {
         case 1:
